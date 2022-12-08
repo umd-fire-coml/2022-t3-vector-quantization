@@ -24,6 +24,7 @@ Process of Program Simplified:
 # Step-by-step instructions to test the trained model to get the predicted results
   
 # Directory Guide
+VQ_VAE_FINAL.ipynb - Trains, creates, and tests the model.
 
 # Citations or References
   Model architecture diagram: Kumar, Gaurav & Sharma, Sandeep & Malik, Hasmat. (2016). Learning Vector Quantization Neural Network Based External Fault Diagnosis Model for Three Phase Induction Motor Using Current Signature Analysis. Procedia Computer Science. 93. 1010-1016. 10.1016/j.procs.2016.07.304. 
