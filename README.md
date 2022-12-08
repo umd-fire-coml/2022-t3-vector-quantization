@@ -27,6 +27,8 @@ Process of Program Simplified:
 
 # Citations or References
   Model architecture diagram: Kumar, Gaurav & Sharma, Sandeep & Malik, Hasmat. (2016). Learning Vector Quantization Neural Network Based External Fault Diagnosis Model for Three Phase Induction Motor Using Current Signature Analysis. Procedia Computer Science. 93. 1010-1016. 10.1016/j.procs.2016.07.304. 
+ Sayak, P. (2021, July 21). Keras documentation: Vector-quantized variational autoencoders. Keras. Retrieved December 8, 2022, from https://keras.io/examples/generative/vq_vae/  
+ 
 
 
 
