@@ -31,13 +31,13 @@ Process of Program Simplified:
  Sayak, P. (2021, July 21). Keras documentation: Vector-quantized variational autoencoders. Keras. Retrieved December 8, 2022, from https://keras.io/examples/generative/vq_vae/  
  
 Brownlee, J. (2020) Learning vector quantization for machine learning, MachineLearningMastery.com. Available at: https://machinelearningmastery.com/learning-vector-quantization-for-machine-learning/ (Accessed: December 8, 2022). 
-https://machinelearningmastery.com/learning-vector-quantization-for-machine-learning/
+
 
 Defferrard, M. et al. (2017) FMA: A dataset for Music Analysis, arXiv.org. Available at: https://arxiv.org/abs/1612.01840 (Accessed: December 8, 2022). 
-https://arxiv.org/abs/1612.01840
+
 
 Larsen, A. et al. (2016) Autoencoding beyond pixels using a learned similarity metric - arxiv, Autoencoding beyond pixels using a learned similarity metric. Available at: https://arxiv.org/pdf/1512.09300 (Accessed: December 8, 2022). 
-https://arxiv.org/pdf/1512.09300.pdf
+
  
 
 
