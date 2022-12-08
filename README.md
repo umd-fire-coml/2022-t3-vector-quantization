@@ -1,4 +1,3 @@
-# 2022-t3-vector-quantization
 
 # Soundtrack Similarity using a Vector Quantization Model
 
