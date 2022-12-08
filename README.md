@@ -27,8 +27,19 @@ Process of Program Simplified:
 
 # Citations or References
   Model architecture diagram: Kumar, Gaurav & Sharma, Sandeep & Malik, Hasmat. (2016). Learning Vector Quantization Neural Network Based External Fault Diagnosis Model for Three Phase Induction Motor Using Current Signature Analysis. Procedia Computer Science. 93. 1010-1016. 10.1016/j.procs.2016.07.304. 
+  
  Sayak, P. (2021, July 21). Keras documentation: Vector-quantized variational autoencoders. Keras. Retrieved December 8, 2022, from https://keras.io/examples/generative/vq_vae/  
  
+Brownlee, J. (2020) Learning vector quantization for machine learning, MachineLearningMastery.com. Available at: https://machinelearningmastery.com/learning-vector-quantization-for-machine-learning/ (Accessed: December 8, 2022). 
+https://machinelearningmastery.com/learning-vector-quantization-for-machine-learning/
+
+Defferrard, M. et al. (2017) FMA: A dataset for Music Analysis, arXiv.org. Available at: https://arxiv.org/abs/1612.01840 (Accessed: December 8, 2022). 
+https://arxiv.org/abs/1612.01840
+
+Larsen, A. et al. (2016) Autoencoding beyond pixels using a learned similarity metric - arxiv, Autoencoding beyond pixels using a learned similarity metric. Available at: https://arxiv.org/pdf/1512.09300 (Accessed: December 8, 2022). 
+https://arxiv.org/pdf/1512.09300.pdf
+ 
+
 
 
 
