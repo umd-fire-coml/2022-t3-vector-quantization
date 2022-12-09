@@ -2,7 +2,7 @@
 # Soundtrack Similarity using a Vector Quantization Model
 By: Karan Agarwal, Saketh Jakka, Tejas Chandakkar, Hardik Bhardwaj, Austin Sankanung, James Dawkins
 
-#Process of Program Simplified:
+# Program Process - Simplified:
   - User Uploads Soundtrack file
   - Uploaded track is run through Librosa functions to extract music features
   - Feature data is run through our Vector Quantization model to find the closest soundtrack in the dataset
