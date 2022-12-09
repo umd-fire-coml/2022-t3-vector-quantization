@@ -22,10 +22,24 @@ https://user-images.githubusercontent.com/45269905/206603227-ed158c07-4718-449c-
   
   
 # Step by Step instructions to train the model to get the trained model weights
-The training starts off with defining the VQVAETrainer method in which we take outputs from the VQ-VAE, calculate the losses, backpropagate it, track the losses, and return the results. We take the features of the mfcc file, properly format the file for training, push it through the the VQVAETrainer method, compile it with the proper optimizers, and fit it across our data with 30 epochs. 
+- Define the VQVAETrainer method in which we take outputs from the VQ-VAE
+- Calculate the losses 
+- Backpropagate it
+- Track the losses
+- Return the results 
+- Take the features of the mfcc file
+- Properly format the file for training
+- Push it through the the VQVAETrainer method
+- Compile it with the proper optimizers
+- Fit it across our data with 30 epochs. 
 
 # Step-by-step instructions to test the trained model to get the predicted results
-We start off the testing of the model by defining the VectorQuantizer class. This class includes the initializing of the embeddings which will be used for quantizing, the call method, and the get_code_indices method. These all come in handy when actually running the model. We then take the trained version of the model and run the .predict method on the testing data. This is followed by the encoders and quantizer running their own layers on the same testing data. First, the encoder will run the same .predict method and turn our data into a feasible way for our quantizer to search through the codebook and return the new output
+- Defin the VectorQuantizer class 
+- Initialize the embeddings which will be used for quantizing, the call method, and the get_code_indices method 
+- Take the trained version of the model and run the .predict method on the testing data. 
+- Encoders and quantizer run their own layers on the same testing data 
+- The encoder will run the same .predict method and turn our data into a feasible way for our quantizer to search through the codebook
+- Return the new output
   
 # Directory Guide
 VQ_VAE_FINAL.ipynb - Trains, creates, and tests the model.
