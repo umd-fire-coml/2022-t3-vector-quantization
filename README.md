@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/45269905/206603227-ed158c07-4718-449c-
 
 # System Architecture Diagram
   Displaying the relationship of the system modules from the front-end to the back-end
+  ![System Architecture Diagram](https://user-images.githubusercontent.com/113549755/206785473-2c493913-6017-450b-86d0-4d4127c0d50f.png)
   
   
 # Model Architecture Diagram
@@ -52,5 +53,6 @@ Larsen, A. et al. (2016) Autoencoding beyond pixels using a learned similarity m
 
 
   
+
 
 
