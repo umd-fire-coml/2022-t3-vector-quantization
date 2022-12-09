@@ -13,6 +13,7 @@ https://user-images.githubusercontent.com/45269905/206603227-ed158c07-4718-449c-
 # System Architecture Diagram
   Displaying the relationship of the system modules from the front-end to the back-end
   
+  
 # Model Architecture Diagram
   Displaying the relationship of the model layers from the input layer to the output layer![image](https://user-images.githubusercontent.com/97644172/206308928-1f2f2084-8f80-4801-aae5-bd29debd005b.png)
 
