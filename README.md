@@ -16,12 +16,6 @@ https://user-images.githubusercontent.com/45269905/206603227-ed158c07-4718-449c-
   ![System Architecture Diagram](https://user-images.githubusercontent.com/113549755/206785473-2c493913-6017-450b-86d0-4d4127c0d50f.png)
   
   
-# Model Architecture Diagram
-  Displaying the relationship of the model layers from the input layer to the output layer![image](https://user-images.githubusercontent.com/97644172/206308928-1f2f2084-8f80-4801-aae5-bd29debd005b.png)
-
-  
-  
-  
 # Step by Step instructions to train the model to get the trained model weights
 - Define the VQVAETrainer method in which we take outputs from the VQ-VAE
 - Calculate the losses 
